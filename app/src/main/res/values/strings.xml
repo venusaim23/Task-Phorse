@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Task Phorse</string>
+    <string name="add_tasks">Add tasks</string>
+    <string name="title_activity_main">Tasks</string>
 </resources>
